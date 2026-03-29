@@ -55,13 +55,6 @@ I build full-stack applications with a focus on real-time data systems and clean
   </tr>
 </table>
 
-## 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KyunSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyunSC&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
