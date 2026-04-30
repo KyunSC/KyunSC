@@ -32,7 +32,7 @@ I build full-stack applications with a focus on real-time data systems and clean
   <tr>
     <td width="50%">
       <h3>🔹 Market Data Monitor</h3>
-      <p>Real-time futures market data pipeline with cloud-native ingestion. Built with Spring Boot, PostgreSQL, Azure, and Next.js.</p>
+      <p>Real-time market data pipeline with cloud-native ingestion. Built with Spring Boot, PostgreSQL, Azure, and Next.js.</p>
       <a href="https://github.com/KyunSC/azure-market-data">View Project →</a>
     </td>
     <td width="50%">
@@ -44,7 +44,7 @@ I build full-stack applications with a focus on real-time data systems and clean
   <tr>
     <td width="50%">
       <h3>🔹 Ideal Gas Law Simulator</h3>
-      <p>Interactive physics engine to visualize PV=nRT with real-time variable manipulation. Built in Java.</p>
+      <p>Interactive physics engine to visualize with real-time variable manipulation. Built in Java.</p>
       <a href="https://github.com/KyunSC/ideal-gas-law-simulator">View Project →</a>
     </td>
     <td width="50%">
