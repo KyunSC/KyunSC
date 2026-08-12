@@ -64,5 +64,5 @@ I build full-stack applications with a focus on real-time data systems and clean
 ---
 
 <p align="center">
-  <i>Open to Summer 2026 internship opportunities in software engineering and fintech.</i>
+  <i>Open to Summer 2027 internship opportunities in software engineering and fintech.</i>
 </p>
