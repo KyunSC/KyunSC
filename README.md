@@ -40,7 +40,7 @@ At **Galerie L'Original (Artur.art)**, I've built a view-in-room experience for 
 
 | Project | What it does |
 | --- | --- |
-| [Market Data Monitor](https://github.com/KyunSC/azure-market-data) | Ingests index-futures data, calculates gamma exposure, and explores short-horizon prediction with PyTorch and scikit-learn. Built with Azure Functions, PostgreSQL, Spring Boot, and Next.js. |
+| [GammaFlow](https://github.com/KyunSC/azure-market-data) | Ingests index-futures data, calculates gamma exposure, and explores short-horizon prediction with PyTorch and scikit-learn. Built with Azure Functions, PostgreSQL, Spring Boot, and Next.js. |
 | [CrowdCheck](https://github.com/KyunSC/crowd-check) | Tracks crowd levels at McGill locations with an Angular frontend and a C#/.NET API backed by PostgreSQL. |
 | [Ideal Gas Law Simulator](https://github.com/KyunSC/ideal-gas-law-simulator) | Interactive Java simulation for exploring how changing physical variables affects an ideal gas. |
 | [Portfolio](https://github.com/KyunSC/my_portfolio) | My personal website, built with TypeScript and modern web tools. |
