@@ -1,24 +1,36 @@
-# Hey, I'm Sunny 👋
+<h1 align="center">Hey, I'm Sunny 👋</h1>
 
-**Software Engineering Co-op student @ McGill University**
+<p align="center">
+  <a href="https://chensunny.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineering+Co-op+%40+McGill;Full-stack+applications+and+data+pipelines;Building+tools+for+financial+markets;Open+to+SWE+and+fintech+internships" alt="Typing intro" />
+  </a>
+</p>
 
 I build full-stack applications, real-time data systems, and tools that turn messy inputs into useful products. Lately, I've been working on artwork previews and image pipelines at Galerie L'Original and exploring software engineering for financial markets.
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-[![Languages](https://skillicons.dev/icons?i=java,py,cs,c,ts,js,bash)](https://skillicons.dev)
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,cs,c,ts,js,bash" alt="Languages" />
+</p>
 
-**Frontend & 3D**  
-[![Frontend & 3D](https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,threejs,html,css)](https://skillicons.dev)
+<p align="center">
+  <b>Frontend & 3D</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,threejs,html,css" alt="Frontend and 3D" />
+</p>
 
-**Backend, data & ML**  
-[![Backend, data & ML](https://skillicons.dev/icons?i=nodejs,spring,dotnet,postgres,mysql,pytorch,sklearn)](https://skillicons.dev)
+<p align="center">
+  <b>Backend, data & ML</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,postgres,mysql,pytorch,sklearn" alt="Backend, data and ML" />
+</p>
 
-**Tools & platforms**  
-[![Tools & platforms](https://skillicons.dev/icons?i=azure,docker,linux,git,github,gitlab,maven,gradle)](https://skillicons.dev)
+<p align="center">
+  <b>Tools & platforms</b><br/>
+  <img src="https://skillicons.dev/icons?i=azure,docker,linux,git,github,gitlab,maven,gradle" alt="Tools and platforms" />
+</p>
 
-<sub>Also: SQL, pgvector, JUnit</sub>
+<p align="center"><sub>Also: SQL, pgvector, JUnit</sub></p>
 
 ## 💼 What I'm Working On
 
@@ -35,9 +47,11 @@ At **Galerie L'Original (Artur.art)**, I've built a view-in-room experience for 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunny-chen-software)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://chensunny.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunny.chen@mail.mcgill.ca)
+<p align="center">
+  <a href="https://linkedin.com/in/sunny-chen-software"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://chensunny.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:sunny.chen@mail.mcgill.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
