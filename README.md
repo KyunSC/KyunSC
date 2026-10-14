@@ -34,7 +34,7 @@ I build full-stack applications, real-time data systems, and tools that turn mes
 
 ## 💼 What I'm Working On
 
-At **Galerie L'Original (Artur.art)**, I've built a view-in-room experience for artwork, a Node.js/Three.js pipeline that generates 3D assets for AR, and an image quality workflow using pgvector retrieval and a vision model.
+GammaFlow
 
 ## 📌 Featured Projects
 
