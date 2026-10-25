@@ -34,7 +34,7 @@ I build full-stack applications, real-time data systems, and tools that turn mes
 
 ## 💼 What I'm Working On
 
-GammaFlow
+Research in GammaFlow
 
 ## 📌 Featured Projects
 
